@@ -1,4 +1,4 @@
-package com.uk.fileupladdemo.service;
+package com.uk.fileuploaddemo.service;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -11,7 +11,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import com.opencsv.bean.CsvToBean;
 import com.opencsv.bean.CsvToBeanBuilder;
-import com.uk.fileupladdemo.model.User;
+import com.uk.fileuploaddemo.model.User;
 
 import jakarta.transaction.Transactional;
 import lombok.extern.slf4j.Slf4j;

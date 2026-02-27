@@ -1,4 +1,4 @@
-package com.uk.fileupladdemo.controller;
+package com.uk.fileuploaddemo.controller;
 
 import java.util.Map;
 
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.uk.fileupladdemo.service.UserService;
+import com.uk.fileuploaddemo.service.UserService;
 
 @RestController
 @RequestMapping("/api/v1/users")
