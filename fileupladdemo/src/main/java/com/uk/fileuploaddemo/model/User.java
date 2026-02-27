@@ -1,4 +1,4 @@
-package com.uk.fileupladdemo.model;
+package com.uk.fileuploaddemo.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

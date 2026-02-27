@@ -1,4 +1,4 @@
-package com.uk.fileupladdemo.repository;
+package com.uk.fileuploaddemo.repository;
 
 import java.util.Optional;
 
@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
-import com.uk.fileupladdemo.model.User;
+import com.uk.fileuploaddemo.model.User;
 
 import jakarta.transaction.Transactional;
 
